@@ -1,0 +1,13 @@
+/*.classpath
+/*.project
+/.settings/*.prefs
+/target/classes/br/com/alura/chainOfResponsability/*.class
+/target/classes/br/com/alura/command/*.class
+/target/classes/br/com/alura/observer/*.class
+/target/classes/br/com/alura/state/*.class
+/target/classes/br/com/alura/strategy/*.class
+/target/classes/br/com/alura/templateMethod/*.class
+/target/classes/br/com/alura/test/*.class
+/target/classes/META-INF/*.MF
+/target/classes/META-INF/maven/id078_designer-patterns/id078_designer-patterns/*.properties
+/target/classes/META-INF/maven/id078_designer-patterns/id078_designer-patterns/*.xml
