@@ -11,3 +11,8 @@
 /target/classes/META-INF/*.MF
 /target/classes/META-INF/maven/id078_designer-patterns/id078_designer-patterns/*.properties
 /target/classes/META-INF/maven/id078_designer-patterns/id078_designer-patterns/*.xml
+/target/classes/br/com/alura/adapter/*.class
+/target/classes/br/com/alura/adapter/sistema/*.class
+/target/classes/br/com/alura/composite/*.class
+/target/classes/br/com/alura/decorator/*.class
+/target/classes/br/com/alura/proxy/*.class
